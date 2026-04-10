@@ -8,7 +8,7 @@ Cokoino Timer Alarm &amp; Watering kit
 - You will get a "CKK0021-main"ZIP file in your computer when the download task is finished,
 - ! Unzip the ZIP file instead of opening the file in the ZIP file directly.
 - ! Do not move, delete or rename files in the folder just unzipped.
-![Image text](https://github.com/Cokoino/Image/blob/main/CKK0020.png)
+![Image text](https://github.com/Cokoino/Image/blob/main/CKK0021.png)
 # Contact us: 
 - Email: cokoino@outlook.com
   

@@ -17,7 +17,7 @@ boolean key_1=false,key_2=false;//Define two boolean variables, key_1 and key_2,
 void setup() {
   pinMode(2,INPUT);   //Define siganl pin D2 of Arduino UNO as input mode
   pinMode(3,INPUT);   //Define siganl pin D3 of Arduino UNO as input mode
-  pinMode(11,OUTPUT); //Define siganl pin D11 of Arduino UNO as output mode
+  pinMode(10,OUTPUT); //Define siganl pin D11 of Arduino UNO as output mode
   pinMode(12,OUTPUT); //Define siganl pin D12 of Arduino UNO as output mode
 }
 void loop() {
@@ -36,8 +36,8 @@ void loop() {
       }   
     }
   
-  if(key_1==true) {digitalWrite(11,HIGH);} //turn on red LED
-  else            {digitalWrite(11,LOW);}  //turn off red LED
+  if(key_1==true) {digitalWrite(10,HIGH);} //turn on red LED
+  else            {digitalWrite(10,LOW);}  //turn off red LED
   if(key_2==true) {digitalWrite(12,HIGH);} //turn on green LED
   else            {digitalWrite(12,LOW);}  //turn off green LED
 }

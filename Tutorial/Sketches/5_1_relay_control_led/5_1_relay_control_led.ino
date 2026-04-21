@@ -11,7 +11,7 @@
 #define LED_G 12  //Connect the signal pin of the green LED module to the D12 pin of the Arduino UNO
 
 void setup() {
-  pinMode(10,OUTPUT); //Define siganl pin D10 of Arduino UNO as output mode
+  pinMode(9,OUTPUT); //Define siganl pin D10 of Arduino UNO as output mode
   pinMode(12,OUTPUT); //Define siganl pin D12 of Arduino UNO as output mode
 }
 void loop() {
